@@ -25,7 +25,7 @@ function drawText ()
 
     context.font = "20px Geogia";
     context.fillStyle = "#000000";
-    context.fillText(p1Wins +  " | " + p2Wins, 495, 65);
+    context.fillText(p1Wins +  "       |       " + p2Wins, 465, 65);
 }
 
 function drawNet() 
